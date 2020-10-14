@@ -1,3 +1,6 @@
+# Copyright (c) 2017 Civic Knowledge. This file is licensed under the terms of the
+# MIT License, included in this distribution as LICENSE
+
 from rowgenerators import Url, parse_app_url
 from rowgenerators.exceptions import AppUrlError
 from publicdata.census.util import sub_geoids, sub_summarylevel

@@ -41,7 +41,5 @@ class TestBasic(TestCase):
         print(df.head())
 
 
-
-
 if __name__ == '__main__':
     unittest.main()

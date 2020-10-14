@@ -11,3 +11,4 @@ finally:
     del get_distribution, DistributionNotFound
 
 from .appurl import PumsUrl
+from .meta import categorize, category_map
